@@ -9,7 +9,7 @@ The [Aerospike Monitoring Stack](https://www.aerospike.com/docs/tools/monitorsta
 
 ### Easy single node Aerospike monitoring stack
 
-A single command is needed to deploy containers for the entire monitoring stack for a single node cluster.
+A single command is needed to deploy containers for the entire monitoring stack for a single node Aerospike cluster.
 ```
 $ cd examples/easy
 $ docker-compose -f easy-compose.yml up
